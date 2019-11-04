@@ -1,0 +1,704 @@
+MSHSLClass,Gender,RaceLengthMeters,AthletePlace,IsTeamParticipant,CompletedRace,Athlete,AthleteGrade,Team,AthleteTeamScore,RaceCompletionTimeSeconds
+AA,F,5000,1,1,1,Analee Weaver,11,Stillwater,1,1066.099968
+AA,F,5000,2,1,1,Abbey Nechanicky,9,Wayzata,2,1072.800029
+AA,F,5000,3,1,1,Anna Fenske,11,Farmington,3,1078.50001
+AA,F,5000,4,1,1,Ali Weimer,10,St. Michael-Albertville,4,1080.200016
+AA,F,5000,5,0,1,Sydney Drevlow,7,Hopkins,0,1090.500019
+AA,F,5000,6,1,1,Molly Moening,10,St Paul Highland Park,5,1099.499962
+AA,F,5000,7,0,1,Liesl Paulsen,12,Eden Prairie,0,1101.199968
+AA,F,5000,8,0,1,Iris Guider,10,St Paul Central,0,1101.399984
+AA,F,5000,9,1,1,Katie Sigerud,10,St. Michael-Albertville,6,1104.399965
+AA,F,5000,10,1,1,Maggie Wagner,10,Edina,7,1114.000042
+AA,F,5000,11,1,1,Lauren Cossack,9,Edina,8,1115.199965
+AA,F,5000,12,1,1,Halle Mestery,10,East Ridge,9,1115.300016
+AA,F,5000,13,1,1,Brianne Brewster,12,Lakeville South,10,1115.800013
+AA,F,5000,14,1,1,Morgan Richter,12,Edina,11,1117.899965
+AA,F,5000,15,1,1,Mariah Fenske,8,Farmington,12,1119.900038
+AA,F,5000,16,0,1,Ella Dufault,9,Waseca,0,1120.599965
+AA,F,5000,17,0,1,Isabelle Schmitz,8,Hutchinson,0,1121.599958
+AA,F,5000,18,0,1,Jersey Miller,8,St Louis Park,0,1121.799974
+AA,F,5000,19,0,1,Katelyn Motter,8,Rocori,0,1122.200006
+AA,F,5000,20,1,1,Mary Velner,9,Edina,13,1122.499987
+AA,F,5000,21,0,1,Grace Johnson,12,Red Wing,0,1122.700003
+AA,F,5000,22,1,1,Lauren Eilers,7,Willmar,14,1126.899994
+AA,F,5000,23,0,1,Anna Cherian,11,Minnetonka,0,1129.599994
+AA,F,5000,24,0,1,Madeline Verkerke,12,White Bear Lake,0,1130.899968
+AA,F,5000,25,1,1,Brooke Elfert,9,Stillwater,15,1131.200035
+AA,F,5000,26,0,1,Ella Graham,8,Minnetonka,0,1131.500016
+AA,F,5000,27,1,1,Macy Iyer,10,Edina,16,1132.50001
+AA,F,5000,28,1,1,Emma Ecker,10,Alexandria,17,1134
+AA,F,5000,29,1,1,Ellie Moore,7,St Paul Highland Park,18,1135.999987
+AA,F,5000,30,1,1,Daisy Islas,8,Rosemount,19,1136.900016
+AA,F,5000,31,1,1,Grace Link,11,Wayzata,20,1137.199997
+AA,F,5000,32,1,1,Meghan Pierson,11,Chanhassen,21,1137.299962
+AA,F,5000,33,0,1,Paige Larsen,8,Rocori,0,1139.800032
+AA,F,5000,34,1,1,Teegan Anderson,9,Wayzata,22,1140.499958
+AA,F,5000,35,1,1,Claire Beckman,11,Andover,23,1141.500038
+AA,F,5000,36,1,1,Morgan Peterman,9,Stillwater,24,1141.600003
+AA,F,5000,37,0,1,Claire Vukovics,7,Lakeville North,0,1141.600003
+AA,F,5000,38,1,1,Giselle Jahner,9,Alexandria,25,1143.59999
+AA,F,5000,39,1,1,Paige McAloon,12,St. Michael-Albertville,26,1144.000022
+AA,F,5000,40,1,1,Jaelyn Miller,8,Alexandria,27,1144.000022
+AA,F,5000,41,0,1,Kate LeBlanc,10,Minnetonka,0,1144.500019
+AA,F,5000,42,1,1,Grace Weber,9,Wayzata,28,1145.000016
+AA,F,5000,43,1,1,Ellie Hanowski,9,Forest Lake,29,1145.799994
+AA,F,5000,44,0,1,Alexa Davis,10,Osseo,0,1146.099974
+AA,F,5000,45,1,1,Erin Eilers,7,Willmar,30,1146.200026
+AA,F,5000,46,1,1,Morgan Dahl,12,Mounds View,31,1146.200026
+AA,F,5000,47,0,1,Taylor Melton,12,Moorhead,0,1148.200013
+AA,F,5000,48,1,1,Mary Kenney,10,East Ridge,32,1148.799974
+AA,F,5000,49,1,1,Emma Windingland,9,St. Michael-Albertville,33,1149.100042
+AA,F,5000,50,1,1,Aleah Miller,10,Alexandria,34,1149.299971
+AA,F,5000,51,1,1,Caitlin Bright,12,Alexandria,35,1149.400022
+AA,F,5000,52,1,1,Delia Johnson,9,St Paul Highland Park,36,1149.600038
+AA,F,5000,53,1,1,Grace Mignone,9,Wayzata,37,1149.900019
+AA,F,5000,54,1,1,Lyndi Koosman,8,Willmar,38,1151.600026
+AA,F,5000,55,1,1,Elizabeth Donner,12,Andover,39,1152.199987
+AA,F,5000,56,1,1,Sadie Schreiner,12,Edina,40,1152.199987
+AA,F,5000,57,1,1,Emelia Arnone,11,Wayzata,41,1152.499968
+AA,F,5000,58,1,1,Kate Bucher,12,Marshall,42,1152.699984
+AA,F,5000,59,0,1,Kendra Krueger,9,Jordan,0,1152.9
+AA,F,5000,60,0,1,Melanie Pankow,11,White Bear Lake,0,1153.100016
+AA,F,5000,61,0,1,Jules Davis,8,Osseo,0,1153.199981
+AA,F,5000,62,0,1,Megan Lee,9,Bloomington Jefferson,0,1153.499962
+AA,F,5000,63,1,1,Bellamy Sukalski,10,Marshall,43,1153.499962
+AA,F,5000,64,1,1,Ella Braufman,10,Wayzata,44,1154.600006
+AA,F,5000,65,0,1,Ingrid Buiceag-Arama,11,Sartell-Saint Stephen,0,1154.699971
+AA,F,5000,66,1,1,Jersey Leysen,9,Marshall,45,1156.300013
+AA,F,5000,67,0,1,Abrielle Jirele,12,Eden Prairie,0,1157.300006
+AA,F,5000,68,1,1,Anna Belair,12,St. Michael-Albertville,46,1157.500022
+AA,F,5000,69,0,1,Zoie Dundon,10,Burnsville,0,1157.500022
+AA,F,5000,70,1,1,Kendall Hanson,7,Willmar,47,1159.79999
+AA,F,5000,71,1,1,Norah Hushagen,7,Forest Lake,48,1161
+AA,F,5000,72,1,1,Natalie Runquist,11,Forest Lake,49,1161.400032
+AA,F,5000,73,1,1,Mackenzy Lippold,8,Farmington,50,1163.200003
+AA,F,5000,74,1,1,Elsa Huckels,12,Stillwater,51,1165.300042
+AA,F,5000,75,0,1,Miranda Kerndt,11,Eastview,0,1165.699987
+AA,F,5000,76,0,1,Madelyn Skjeveland,12,Faribault,0,1166.300035
+AA,F,5000,77,0,1,Ella Bakken,11,Eden Prairie,0,1166.899997
+AA,F,5000,78,1,1,Caroline Harding,12,St Paul Highland Park,52,1169.000035
+AA,F,5000,79,0,1,Kaelyn Nelson,8,Anoka,0,1169.300016
+AA,F,5000,80,0,1,Emilie Meyer,11,Totino-Grace,0,1169.699962
+AA,F,5000,81,0,1,Gabriella Witschen,11,Monticello,0,1170.099994
+AA,F,5000,82,1,1,Brycelyn Brewster,10,Lakeville South,53,1170.399974
+AA,F,5000,83,0,1,Ava Nuttall,12,Rochester Century,0,1170.399974
+AA,F,5000,84,0,1,Hailee Zimpel,9,Zimmerman,0,1173.700022
+AA,F,5000,85,1,1,Heidi Engman,12,Edina,54,1173.900038
+AA,F,5000,86,1,1,Marianah Scott,8,Farmington,55,1174.200019
+AA,F,5000,87,1,1,Sophia Taarud,11,Farmington,56,1174.599965
+AA,F,5000,88,0,1,Laina Viere,9,Rocori,0,1174.900032
+AA,F,5000,89,1,1,Chloe Koch,9,St Paul Highland Park,57,1175.099962
+AA,F,5000,90,0,1,Tiffany Holiday,12,Woodbury,0,1175.70001
+AA,F,5000,91,0,1,Harmony Tracy,10,Cloquet,0,1175.900026
+AA,F,5000,92,1,1,Lindsey Woestehoff,7,Farmington,58,1176.900019
+AA,F,5000,93,1,1,Taylor Isabel,9,Mounds View,59,1177.100035
+AA,F,5000,94,0,1,Adorisa Kaeding,10,Waconia,0,1178.100029
+AA,F,5000,95,1,1,Nina Dawson,10,Willmar,60,1178.499974
+AA,F,5000,96,0,1,Lindsey Young,10,Maple Grove,0,1178.999971
+AA,F,5000,97,1,1,Allyson Sample,8,Marshall,61,1181.500042
+AA,F,5000,98,0,1,Jayda Becker,11,Shakopee,0,1182.100003
+AA,F,5000,99,0,1,Lexi Duscher,12,Princeton,0,1182.199968
+AA,F,5000,100,1,1,Avery O'Rourke,9,St. Michael-Albertville,62,1182.199968
+AA,F,5000,101,0,1,Lexi Dehmer,12,Becker,0,1182.300019
+AA,F,5000,102,0,1,Carsyn Brady,8,Owatonna,0,1182.399984
+AA,F,5000,103,0,1,Anni Skillicorn,12,Winona,0,1182.399984
+AA,F,5000,104,1,1,Jordan Parent,9,Forest Lake,63,1183.000032
+AA,F,5000,105,0,1,Basia Babcock,9,Jordan,0,1183.399978
+AA,F,5000,106,1,1,Jessica Immer,11,St. Michael-Albertville,64,1183.500029
+AA,F,5000,107,1,1,Lily Peterson,8,Rosemount,65,1183.699958
+AA,F,5000,108,1,1,Lillian Warmuth,11,East Ridge,66,1185.500016
+AA,F,5000,109,1,1,Bethany Miller,12,Alexandria,67,1185.700032
+AA,F,5000,110,1,1,Avery Braunshausen,9,Stillwater,68,1185.799997
+AA,F,5000,111,1,1,Tatum Geving,11,East Ridge,69,1186.50001
+AA,F,5000,112,0,1,Megan Narveson,12,Bloomington Jefferson,0,1187.700019
+AA,F,5000,113,1,1,Gwyneth Gerlach,12,East Ridge,70,1187.799984
+AA,F,5000,114,1,1,Alyssa Gerth,11,Andover,71,1188.400032
+AA,F,5000,115,1,1,Laurin Isabel,9,Mounds View,72,1188.799978
+AA,F,5000,116,1,1,Makayla Bishop,11,Rosemount,73,1190.499984
+AA,F,5000,117,0,1,Maggie McCarthy,10,Woodbury,0,1192.699987
+AA,F,5000,118,0,1,Brooklyn Hart,8,Buffalo,0,1196.399981
+AA,F,5000,119,0,1,Emily Ellingson,9,Irondale,0,1196.899978
+AA,F,5000,120,0,1,Maggie Hoen,7,Prior Lake,0,1197.000029
+AA,F,5000,121,0,1,Claire Schneider,11,White Bear Lake,0,1197.500026
+AA,F,5000,122,0,1,Nicole Theberath,11,Northfield/ARTech,0,1199.000016
+AA,F,5000,123,1,1,Miracle Tucker,9,Marshall,74,1200.500006
+AA,F,5000,124,1,1,Abby McNeil,11,Rosemount,75,1200.799987
+AA,F,5000,125,1,1,Heavyn Bordak,12,Alexandria,76,1201.400035
+AA,F,5000,126,1,1,Hanna Koch,7,St Paul Highland Park,77,1201.5
+AA,F,5000,127,1,1,Tollie Jackson,9,Mounds View,78,1201.599965
+AA,F,5000,128,1,1,Addison Hogan,11,Willmar,79,1202.900026
+AA,F,5000,129,0,1,Carley Kremer,12,Rocori,0,1204.999978
+AA,F,5000,130,0,1,Maggie Blanding,10,White Bear Lake,0,1206.300038
+AA,F,5000,131,1,1,Kate Beckwith,12,Rosemount,80,1206.600019
+AA,F,5000,132,0,1,Grace Jostock,11,Delano,0,1210.199962
+AA,F,5000,133,1,1,Avery Leppones,11,Rosemount,81,1211.300006
+AA,F,5000,134,0,1,Audrey Neuerburg-Chapman,11,Elk River,0,1211.500022
+AA,F,5000,135,0,1,Layla Vennink,7,Prior Lake,0,1213.200029
+AA,F,5000,136,1,1,Brekkyn Lammert,11,Andover,82,1213.900042
+AA,F,5000,137,1,1,Natalee Sample,12,Marshall,83,1214.400038
+AA,F,5000,138,1,1,Kieran Meyer,10,Mounds View,84,1214.500003
+AA,F,5000,139,1,1,Olivia Hoyhtya,10,Mounds View,85,1216.799971
+AA,F,5000,140,1,1,Ava Wilson,10,Forest Lake,86,1220.899997
+AA,F,5000,141,0,1,Amelia Allen,10,Cloquet,0,1221.100013
+AA,F,5000,142,1,1,Marissa Long,8,Chanhassen,87,1221.499958
+AA,F,5000,143,0,1,Sophia Smith,11,Zimmerman,0,1223.199965
+AA,F,5000,144,1,1,Cameen McFarquar,8,Marshall,88,1223.500032
+AA,F,5000,145,0,1,Laura Sunnarborg,9,Mound-Westonka,0,1224.099994
+AA,F,5000,146,0,1,Abby Hibbs,7,Champlin Park,0,1224.899971
+AA,F,5000,147,1,1,Avery Heinz,9,Lakeville South,89,1228.400035
+AA,F,5000,148,1,1,Amelea Hauer,11,Forest Lake,90,1228.400035
+AA,F,5000,149,0,1,Emily Percival,8,Eastview,0,1230.799968
+AA,F,5000,150,1,1,Macee Hansen,8,Willmar,91,1231.299965
+AA,F,5000,151,0,1,Rina Aschemann,10,Eagan,0,1231.499981
+AA,F,5000,152,1,1,Bella Pfankuch,8,St Paul Highland Park,92,1232.600026
+AA,F,5000,153,0,1,Kaitlyn Finnegan,10,Spring Lake Park,0,1233.800035
+AA,F,5000,154,1,1,Lily Ward,9,Stillwater,93,1237.300013
+AA,F,5000,155,1,1,Ruby Ella Anderson,11,East Ridge,94,1238.300006
+AA,F,5000,156,1,1,Lauren Kath,8,Mounds View,95,1241.799984
+AA,F,5000,157,1,1,Annabelle Stang,10,Forest Lake,96,1245.199997
+AA,F,5000,158,0,1,Makayla Fischer,10,Mahtomedi,0,1246.600022
+AA,F,5000,159,1,1,Sonja Wangensteen,9,East Ridge,97,1247.800032
+AA,F,5000,160,0,1,Julia Daubner,9,Princeton,0,1247.899997
+AA,F,5000,161,0,1,Jordan Merwin,12,Cambridge Isanti,0,1250.899978
+AA,F,5000,162,1,1,Annie Kiolbasa,12,Stillwater,98,1258.600032
+AA,F,5000,163,1,1,Madeline Greelis,12,Andover,99,1259.499974
+AA,F,5000,164,1,1,Isabella Roemer,10,Chanhassen,100,1259.69999
+AA,F,5000,165,1,1,Annabelle King,8,Lakeville South,101,1261.399997
+AA,F,5000,166,1,1,Lucy Jagoe,11,Rosemount,102,1265.200042
+AA,F,5000,167,1,1,Julia Babineau,9,Andover,103,1266.899962
+AA,F,5000,168,1,1,Michelle Dyrdahl,11,Andover,104,1269.099965
+AA,F,5000,169,1,1,Elsie Peterson,8,Lakeville South,105,1269.599962
+AA,F,5000,170,1,1,Cassie Jenny,12,Lakeville South,106,1297.400026
+AA,F,5000,171,1,1,Annika Emerson,12,Lakeville South,107,1308.799987
+AA,F,5000,172,1,1,Madeline Hauck,10,Chanhassen,108,1309.900032
+AA,F,5000,173,1,1,Rachel Gallagher,10,Chanhassen,109,1313.299958
+AA,F,5000,174,1,1,Ammisalin Gilman,11,Chanhassen,110,1323.400032
+AA,F,5000,175,1,1,Jennifer Pierson,8,Chanhassen,111,1333.200038
+AA,F,5000,176,1,1,Laura Mcgregor,11,Farmington,112,1342.699978
+AA,M,5000,1,1,1,Oliver Paleen,12,St Paul Highland Park,1,925.1999712
+AA,M,5000,2,0,1,Nicholas Scheller,12,Chanhassen,0,930.0000096
+AA,M,5000,3,1,1,AJ Green,12,Eastview,2,931.7999808
+AA,M,5000,4,1,1,Jake Derouin,12,Eden Prairie,3,940.1999616
+AA,M,5000,5,0,1,Carter Briggs,12,Winona,0,940.8000096
+AA,M,5000,6,1,1,Nick Oak,12,Buffalo,4,947.499984
+AA,M,5000,7,0,1,Shuayb Hussein,12,Wayzata,0,947.499984
+AA,M,5000,8,0,1,Mickies Kiros,12,St Paul Central,0,948.6000288
+AA,M,5000,9,1,1,Max Charlsen,12,Forest Lake,5,949.999968
+AA,M,5000,10,0,1,Ethan Vargas,11,Stillwater,0,955.0000224
+AA,M,5000,11,1,1,Gabe Smit,11,Prior Lake,6,955.2000384
+AA,M,5000,12,1,1,Zach Spears,12,Eden Prairie,7,957.4000416
+AA,M,5000,13,1,1,Finn Sokolowski,12,Mounds View,8,958.0000032
+AA,M,5000,14,0,1,Meti Omod,12,Rochester John Marshall,0,959.2000128
+AA,M,5000,15,1,1,Alec Nelson,12,Mounds View,9,959.2999776
+AA,M,5000,16,1,1,Russell Gokemeijer,12,Edina,10,960.2999712
+AA,M,5000,17,1,1,Calvin Boone,12,St Paul Highland Park,11,960.2999712
+AA,M,5000,18,1,1,Max Nelson,12,White Bear Lake,12,962.1000288
+AA,M,5000,19,0,1,John Faller,11,East Ridge,0,963.499968
+AA,M,5000,20,1,1,Conor Gregg Escalante,12,St Paul Highland Park,13,963.699984
+AA,M,5000,21,1,1,Gage Mostad,12,Bemidji,14,965.3999904
+AA,M,5000,22,1,1,Gabriel Mahlen,11,Eastview,15,965.5000416
+AA,M,5000,23,1,1,Jett Oachs,12,Mankato East,16,965.8000224
+AA,M,5000,24,0,1,Connor Preston,12,Champlin Park,0,966.5000352
+AA,M,5000,25,0,1,Cody Peterson,11,Winona,0,966.6
+AA,M,5000,26,1,1,Kyle Nordling,11,Prior Lake,17,967.5999936
+AA,M,5000,27,0,1,Zachary Long,12,Chanhassen,0,970.2999936
+AA,M,5000,28,1,1,Fuad Bashir,11,Willmar,18,970.7999904
+AA,M,5000,29,0,1,Max Lauerman,12,Minnetonka,0,972
+AA,M,5000,30,1,1,Mohamed Mohamud,12,Eden Prairie,19,973.6000416
+AA,M,5000,31,1,1,Will Sacay,12,Mounds View,20,973.9999872
+AA,M,5000,32,1,1,Isaac Maruyama,12,White Bear Lake,21,974.2000032
+AA,M,5000,33,1,1,Augustus Hubbell,12,Edina,22,974.900016
+AA,M,5000,34,0,1,Brennen Peterson,11,Rosemount,0,975.4000128
+AA,M,5000,35,1,1,Elliott McArthur,9,Mounds View,23,975.7999584
+AA,M,5000,36,1,1,Mason Wendt,12,Willmar,24,976.4000064
+AA,M,5000,37,1,1,Alex Gutierrez,11,Eden Prairie,25,977.600016
+AA,M,5000,38,0,1,Sam Scott,8,Minneapolis Southwest,0,978.1999776
+AA,M,5000,39,1,1,Santino Preciado,12,Mounds View,26,980.1
+AA,M,5000,40,1,1,Daniel Vanacker,10,Forest Lake,27,980.300016
+AA,M,5000,41,1,1,Charles Caven,12,Maple Grove,28,984.0000096
+AA,M,5000,42,0,1,Joseph Lee,11,Roseville,0,985.7999808
+AA,M,5000,43,0,1,Aidan Browne,12,Woodbury,0,985.9999968
+AA,M,5000,44,1,1,Clark Young,12,Maple Grove,29,986.2000128
+AA,M,5000,45,0,1,Liban Mohamed,12,St Cloud Apollo,0,986.2000128
+AA,M,5000,46,0,1,Sean Mcniesh,10,East Ridge,0,986.2999776
+AA,M,5000,47,1,1,Noah Revels,12,Farmington,30,987.6000384
+AA,M,5000,48,1,1,Nicholas Youso,11,Bemidji,31,987.799968
+AA,M,5000,49,0,1,Christian Lietz,12,Worthington,0,987.799968
+AA,M,5000,50,1,1,Magnus O'Connor,11,Prior Lake,32,988.1000352
+AA,M,5000,51,0,1,Abdikafi Khalif,10,Apple Valley,0,988.2999648
+AA,M,5000,52,0,1,Paul Schmitter,12,Eagan,0,988.2999648
+AA,M,5000,53,0,1,Elliott Nicholson,11,Rosemount,0,990.4000032
+AA,M,5000,54,1,1,Isaac Hartman,11,Eden Prairie,33,991.100016
+AA,M,5000,55,0,1,Andrew Casey,9,Lakeville North,0,992.1000096
+AA,M,5000,56,1,1,Robbie Spain,11,Farmington,34,992.3999904
+AA,M,5000,57,0,1,Leo Goodman,11,Hopkins,0,992.6999712
+AA,M,5000,58,0,1,Dontae Johnson,12,Champlin Park,0,993.399984
+AA,M,5000,59,0,1,Zach Matzner,12,Marshall,0,994.6999584
+AA,M,5000,60,0,1,Caden Nordberg,10,St. Michael-Albertville,0,995.0999904
+AA,M,5000,61,1,1,Aden Aden,12,Willmar,35,995.3000064
+AA,M,5000,62,1,1,Sam Morgenstern,12,Eastview,36,996.500016
+AA,M,5000,63,1,1,Jared Gregoire,10,Buffalo,37,998.2000224
+AA,M,5000,64,1,1,Hootie Hage,8,Prior Lake,38,999.4999968
+AA,M,5000,65,0,1,Noah Breker,9,Robbinsdale Armstrong,0,999.4999968
+AA,M,5000,66,0,1,Mackinon Mokoro,12,Osseo,0,999.7999776
+AA,M,5000,67,0,1,Peter Lynch,12,Benilde St Margaret's,0,1000.49999
+AA,M,5000,68,0,1,Aiden Kilibarda,11,Stillwater,0,1001.200003
+AA,M,5000,69,0,1,Symon Keiser,12,Jordan,0,1001.7
+AA,M,5000,70,1,1,Otto Schreiner,10,Edina,39,1001.799965
+AA,M,5000,71,1,1,Ethan Richter,10,Edina,40,1001.999981
+AA,M,5000,72,0,1,Adam Koller,12,Worthington,0,1002.799958
+AA,M,5000,73,0,1,Jonathan Pattie,10,Centennial,0,1002.999974
+AA,M,5000,74,0,1,Isaac Fink,11,Duluth Denfeld,0,1003.19999
+AA,M,5000,75,0,1,Mikele Walu,9,Worthington,0,1003.499971
+AA,M,5000,76,1,1,Dillon Huss,11,Buffalo,41,1003.600022
+AA,M,5000,77,0,1,Jakob Baatrup-Sabo,12,Minneapolis Southwest,0,1004.100019
+AA,M,5000,78,0,1,Adrik Kraftson,10,Stillwater,0,1004.600016
+AA,M,5000,79,0,1,Sam Brewer,11,St Cloud Apollo,0,1004.999962
+AA,M,5000,80,1,1,Jack Gschwendtner,11,Eden Prairie,42,1005.60001
+AA,M,5000,81,0,1,Andre Huston,11,Eagan,0,1006.000042
+AA,M,5000,82,1,1,Logan Tanttu,12,White Bear Lake,43,1006.199971
+AA,M,5000,83,1,1,Matt Miller,11,Mounds View,44,1006.199971
+AA,M,5000,84,1,1,Trevor Locke,11,White Bear Lake,45,1006.199971
+AA,M,5000,85,0,1,Jacob Kleven,11,Alexandria,0,1008.000029
+AA,M,5000,86,0,1,Elias Brotman,12,Cretin-Derham Hall,0,1008.30001
+AA,M,5000,87,1,1,Jadon Boots,10,Buffalo,46,1009.8
+AA,M,5000,88,0,1,Ben Haberman,11,Hopkins,0,1010.000016
+AA,M,5000,89,0,1,Daniel Beletsky,12,Stillwater,0,1010.000016
+AA,M,5000,90,0,1,Preston Meier,10,Owatonna,0,1010.200032
+AA,M,5000,91,1,1,Noah Koelbl,12,Edina,47,1011.00001
+AA,M,5000,92,0,1,Mitchell Hanson,12,Faribault,0,1012.200019
+AA,M,5000,93,1,1,Ethan Maish,11,Bemidji,48,1012.599965
+AA,M,5000,94,1,1,Austin Sievers,12,Forest Lake,49,1012.700016
+AA,M,5000,95,0,1,Granton Schneider,12,Moorhead,0,1012.999997
+AA,M,5000,96,0,1,Isaac Threinen,12,Kasson-Mantorville,0,1013.799974
+AA,M,5000,97,1,1,Ernie Mattson,10,White Bear Lake,50,1014.400022
+AA,M,5000,98,1,1,Andrew Johnson,11,Mankato East,51,1014.700003
+AA,M,5000,99,0,1,Magnus Herschbach,10,Henry Sibley,0,1014.799968
+AA,M,5000,100,1,1,Jordan Allen,12,Cloquet,52,1015.100035
+AA,M,5000,101,1,1,Mason Sullivan,8,Farmington,53,1015.2
+AA,M,5000,102,1,1,Jesse Peterson,11,St Paul Highland Park,54,1015.299965
+AA,M,5000,103,0,1,Alex Heidorn,11,Rogers,0,1015.499981
+AA,M,5000,104,1,1,Colby Rubischko,11,Eastview,55,1015.699997
+AA,M,5000,105,0,1,Ethan Klisch,11,Brainerd,0,1015.799962
+AA,M,5000,106,1,1,Sam Vanspriell,12,St Paul Highland Park,56,1015.799962
+AA,M,5000,107,1,1,Sam Verkerke,12,White Bear Lake,57,1016.40001
+AA,M,5000,108,1,1,Hunter Dunne,10,Eastview,58,1016.499974
+AA,M,5000,109,1,1,Eric Welch,12,Rochester Century,59,1016.900006
+AA,M,5000,110,0,1,Ryan Young,12,Princeton,0,1018.199981
+AA,M,5000,111,0,1,Benjamin Scheller,11,Chanhassen,0,1018.699978
+AA,M,5000,112,0,1,Jaxon Jones,10,Cambridge Isanti,0,1018.899994
+AA,M,5000,113,1,1,Nathan Alto,11,Bemidji,60,1018.999958
+AA,M,5000,114,1,1,Nathaniel Getman,10,Eastview,61,1019.300026
+AA,M,5000,115,1,1,Sam Setterlund,11,Eastview,62,1020.000038
+AA,M,5000,116,1,1,Colin O'Farrell,10,Willmar,63,1020.300019
+AA,M,5000,117,1,1,Seth Hill,11,Rochester Century,64,1020.800016
+AA,M,5000,118,1,1,Caden Speikers,12,Farmington,65,1022.500022
+AA,M,5000,119,0,1,Kyle Swenson,12,St. Michael-Albertville,0,1023.099984
+AA,M,5000,120,1,1,Sean Baird,12,Edina,66,1024.299994
+AA,M,5000,121,1,1,Blake Vander Weide,11,Prior Lake,67,1024.599974
+AA,M,5000,122,0,1,Dane Galloway,12,Alexandria,0,1025.700019
+AA,M,5000,123,0,1,Cameron Heppner,10,Andover,0,1025.700019
+AA,M,5000,124,1,1,Jeremiah Vanacker,12,Forest Lake,68,1027.49999
+AA,M,5000,125,1,1,Jason Dong,11,Rochester Century,69,1027.900022
+AA,M,5000,126,0,1,Peyton Nordby,12,Detroit Lakes,0,1028.299968
+AA,M,5000,127,1,1,John Meagher,11,Prior Lake,70,1029.400013
+AA,M,5000,128,1,1,Silas Green,11,Rochester Century,71,1030.900003
+AA,M,5000,129,1,1,Nile Timmerman,12,Eden Prairie,72,1031.699981
+AA,M,5000,130,0,1,Felix Ongera,10,Irondale,0,1032.199978
+AA,M,5000,131,0,1,Ben Boelter,12,Sartell-Saint Stephen,0,1032.399994
+AA,M,5000,132,1,1,Huxley Nyabwari,12,Maple Grove,73,1033.000042
+AA,M,5000,133,1,1,Sully Anez,8,Willmar,74,1033.399987
+AA,M,5000,134,1,1,Aaron Kruse,12,Farmington,75,1034.500032
+AA,M,5000,135,1,1,Jesse Bahen,12,Cloquet,76,1035.000029
+AA,M,5000,136,1,1,Nathan Apostle,12,Mounds View,77,1035.30001
+AA,M,5000,137,1,1,Calvin Moeller,11,Mankato East,78,1036.099987
+AA,M,5000,138,1,1,Isaak McDonald,10,Bemidji,79,1036.099987
+AA,M,5000,139,1,1,Ben McLaughlin,11,White Bear Lake,80,1036.300003
+AA,M,5000,140,1,1,Aiden Austin,11,Rochester Century,81,1036.599984
+AA,M,5000,141,1,1,James Dorado,10,Buffalo,82,1036.700035
+AA,M,5000,142,1,1,Patrick Mclean,12,Maple Grove,83,1036.8
+AA,M,5000,143,1,1,Nicholas St. Peter,10,Maple Grove,84,1037.500013
+AA,M,5000,144,1,1,Andrew Macheel,9,Buffalo,85,1037.599978
+AA,M,5000,145,0,1,Evan Leonidas,12,Duluth East,0,1039.000003
+AA,M,5000,146,1,1,Luke Lichtenberg,12,Buffalo,86,1039.099968
+AA,M,5000,147,0,1,Logan Meinert,11,Andover,0,1039.5
+AA,M,5000,148,1,1,Sam Buytaert,10,Cloquet,87,1039.999997
+AA,M,5000,149,0,1,Owen Layton,8,Big Lake,0,1040.900026
+AA,M,5000,150,1,1,Josh Sanders,11,Cloquet,88,1041.100042
+AA,M,5000,151,1,1,Kurt Lebakken,10,Edina,89,1042.400016
+AA,M,5000,152,1,1,Carter Poncelet,10,Rochester Century,90,1046.600006
+AA,M,5000,153,1,1,Mowlid Mohammed,9,Willmar,91,1047.800016
+AA,M,5000,154,0,1,Brandon Stachewicz,12,Lakeville North,0,1049.399971
+AA,M,5000,155,1,1,Marcus Hansen,12,St Paul Highland Park,92,1051.000013
+AA,M,5000,156,1,1,Miles Fischer,9,Cloquet,93,1051.79999
+AA,M,5000,157,1,1,David Wedzina,10,Mankato East,94,1053.099965
+AA,M,5000,158,1,1,Habetamu Abide,10,St Paul Highland Park,95,1054.600042
+AA,M,5000,159,1,1,Calvin Rykhus,12,Mankato East,96,1055.400019
+AA,M,5000,160,1,1,Fathi Dubet,8,Willmar,97,1055.499984
+AA,M,5000,161,1,1,Owen Hall,10,Farmington,98,1058.600016
+AA,M,5000,162,1,1,Benjamin Larson,12,Rochester Century,99,1061.000035
+AA,M,5000,163,1,1,Isaiah Zak,12,Forest Lake,100,1062.000029
+AA,M,5000,164,1,1,Gannon Farrens,7,Maple Grove,101,1062.199958
+AA,M,5000,165,1,1,McKoy Ross,11,Prior Lake,102,1066.400035
+AA,M,5000,166,1,1,Cale Prosen,10,Cloquet,103,1067.599958
+AA,M,5000,167,1,1,Carter Altmann,12,Farmington,104,1071.499968
+AA,M,5000,168,0,1,Sam Stertz,11,Grand Rapids,0,1071.9
+AA,M,5000,169,1,1,Alex MacLean,12,Mankato East,105,1078.79999
+AA,M,5000,170,1,1,Seth Lindgren,10,Bemidji,106,1082.299968
+AA,M,5000,171,1,1,Dennis Osvold,12,Cloquet,107,1084.600022
+AA,M,5000,172,1,1,Josef Lalli,10,Bemidji,108,1087.100006
+AA,M,5000,173,1,1,Parker Koland,10,Maple Grove,109,1088.1
+AA,M,5000,174,1,1,Isaiah Anderson,8,Mankato East,110,1115.199965
+AA,M,5000,-1,1,0,Ethan Sievers,10,Forest Lake,0,-1
+AA,M,5000,-1,1,0,Drew Sampson,11,Forest Lake,0,-1
+A,F,5000,1,1,1,Morgan Gehl,11,Murray County Central,1,1073.500042
+A,F,5000,2,0,1,Jade Rypkema,9,Nevis,0,1100.199974
+A,F,5000,3,1,1,Tenley Nelson,10,Luverne,2,1107.099965
+A,F,5000,4,1,1,Ava Hill,12,Mesabi East,3,1118.899958
+A,F,5000,5,0,1,Addison Hoof,0,Mayer Lutheran/LPWHT,0,1126.800029
+A,F,5000,6,1,1,Kyanna Burton,8,Staples-Motley,4,1127.199974
+A,F,5000,7,0,1,Kira Sweeney,11,Wadena Deer Creek,0,1142.399981
+A,F,5000,8,1,1,Calia Chaney,8,Pequot Lakes,5,1142.599997
+A,F,5000,9,1,1,Madeline Kelly,12,Providence Academy,6,1143.800006
+A,F,5000,10,1,1,Jacey Majerus,9,Lake City,7,1145.700029
+A,F,5000,11,1,1,Gracie Mallak,12,Howard Lake-Waverly-Winsted,8,1151.100029
+A,F,5000,12,0,1,Maddie LeSage,8,Redwood Valley,0,1154.800022
+A,F,5000,13,1,1,Rian Zutter,8,Pequot Lakes,9,1155.899981
+A,F,5000,14,1,1,Liz Birkeland,9,Perham,10,1162.49999
+A,F,5000,15,0,1,Lydia Floden,9,East Grand Forks,0,1168.000042
+A,F,5000,16,0,1,Keegan McAuliffe,10,Duluth Marshall,0,1169.800013
+A,F,5000,17,0,1,Caroline Kuehne,8,Long Prairie-Grey Eagle,0,1170.700042
+A,F,5000,18,1,1,Jenna DeBates,8,Luverne,11,1171.899965
+A,F,5000,19,1,1,Olivia Goebel,8,Albany,12,1172.200032
+A,F,5000,20,0,1,Lauryn Renier,12,Rochester Lourdes,0,1173.599971
+A,F,5000,21,1,1,Molly Liston,10,Blake,13,1175.499994
+A,F,5000,22,0,1,Gracie Bucher,11,Windom Area,0,1176.299971
+A,F,5000,23,1,1,Laura Thompson,10,Fairmont,14,1176.900019
+A,F,5000,24,0,1,Grace Feder,11,G-F-W,0,1177.100035
+A,F,5000,25,1,1,Aspen Rohde,8,Perham,15,1177.499981
+A,F,5000,26,1,1,Kailee Malone,12,Stewartville,16,1180.199981
+A,F,5000,27,0,1,Greta Hansen,9,Math & Science Academy,0,1180.699978
+A,F,5000,28,0,1,Molly Novotny,9,Spectrum,0,1181.600006
+A,F,5000,29,0,1,Molly Kate Hagen,9,Plainview-Elgin Millville,0,1183.699958
+A,F,5000,30,0,1,Emaleigh Olesiak,8,Cromwell-Wright,0,1185.700032
+A,F,5000,31,1,1,Macy Hanson,7,Fairmont,17,1188.900029
+A,F,5000,32,1,1,Sawyer Bollinger-Danielson,7,St. Paul Academy & Summit School,18,1189.600042
+A,F,5000,33,0,1,Meg Degen,12,Rochester Lourdes,0,1189.600042
+A,F,5000,34,1,1,Mya Morris,9,Perham,19,1190.100038
+A,F,5000,35,1,1,Peyton Meincke,7,Lake City,20,1191.499978
+A,F,5000,36,1,1,Taylor Barkwell,7,St. Paul Academy & Summit School,21,1191.799958
+A,F,5000,37,0,1,Paola Acevedo,12,St James,0,1191.90001
+A,F,5000,38,0,1,Augusta Demarais,11,Maple Lake,0,1195.100006
+A,F,5000,39,0,1,Margo Nightingale,9,Mounds Park Academy,0,1195.600003
+A,F,5000,40,0,1,Clare Fischer,10,Sleepy Eye St.Marys-Sleepy Eye Public-New Ulm Cath,0,1195.899984
+A,F,5000,41,0,1,Liz Nelson,8,Mountain Iron-Buhl,0,1196.300016
+A,F,5000,42,1,1,Quincy Anderson,9,Perham,22,1197.899971
+A,F,5000,43,0,1,Alaina Steele,12,Pine City,0,1198.899965
+A,F,5000,44,1,1,Kristine Kalthoff,11,Albany,23,1199.099981
+A,F,5000,45,0,1,Aubrey Williams,11,Cotter,0,1199.500013
+A,F,5000,46,1,1,Jackie Tepley,8,Howard Lake-Waverly-Winsted,24,1199.500013
+A,F,5000,47,0,1,Alex Wercinski,11,Virginia,0,1200.00001
+A,F,5000,48,0,1,Greta Long,8,Eagle Ridge Academy/International School of MN,0,1200.900038
+A,F,5000,49,1,1,Carly Chaney,10,Pequot Lakes,25,1201.099968
+A,F,5000,50,1,1,Ashley Overgaauw,9,Murray County Central,26,1202.299978
+A,F,5000,51,0,1,Natalie Fultz,12,Eveleth-Gilbert,0,1203.100042
+A,F,5000,52,1,1,Amanda Overgaauw,9,Murray County Central,27,1203.799968
+A,F,5000,53,1,1,Mela Schmitz,10,Lake City,28,1204.100035
+A,F,5000,54,1,1,Aften Robinson,9,Staples-Motley,29,1204.799962
+A,F,5000,55,0,1,Claire Ebertowski,11,Cotter,0,1205.40001
+A,F,5000,56,0,1,Margaret Myskowski,12,Northwest Nighthawks,0,1206.100022
+A,F,5000,57,0,1,Jerzie Finstad,12,Thief River Falls,0,1206.800035
+A,F,5000,58,1,1,Lily Olson,7,Hawley,30,1209.300019
+A,F,5000,59,0,1,Eva Johnson,8,Pine City,0,1211.000026
+A,F,5000,60,1,1,Lydia Skelton,11,Mesabi East,31,1211.200042
+A,F,5000,61,1,1,Rachael Neu,12,Albany,32,1212.000019
+A,F,5000,62,0,1,Addison Peed,9,WEM/JWP,0,1213.099978
+A,F,5000,63,0,1,Eliana Bleess,11,Warroad,0,1213.200029
+A,F,5000,64,0,1,Kate Nelson,8,Mountain Iron-Buhl,0,1213.700026
+A,F,5000,65,1,1,Isabel Field,12,Stewartville,33,1213.900042
+A,F,5000,66,1,1,Ashley Robben,9,Staples-Motley,34,1214.799984
+A,F,5000,67,1,1,Brooke Baumann,10,Howard Lake-Waverly-Winsted,35,1215.599962
+A,F,5000,68,0,1,Ava Kletti,8,Eagle Ridge Academy/International School of MN,0,1217.200003
+A,F,5000,69,0,1,Marissa Whitehead,11,Martin County West/Martin Luther,0,1217.799965
+A,F,5000,70,0,1,Kayla Meyer,9,Melrose,0,1218.499978
+A,F,5000,71,1,1,Lily Peterson,10,Hawley,36,1218.499978
+A,F,5000,72,0,1,Mary Miller,11,Maple Lake,0,1218.699994
+A,F,5000,73,0,1,Molly DiNardo,9,Minnehaha Academy,0,1218.699994
+A,F,5000,74,0,1,Braelyn Merritt,8,Canby/Minneota,0,1220.300035
+A,F,5000,75,0,1,Katie Hartke,8,Martin County West/Martin Luther,0,1224.000029
+A,F,5000,76,1,1,Kaia Starzl,8,Perham,37,1225.300003
+A,F,5000,77,1,1,McKenna Herrmann,12,Belle Plaine,38,1225.599984
+A,F,5000,78,0,1,Natasha Sortland,9,Zumbrota Mazeppa/Kenyon-Wanamingo,0,1229.599958
+A,F,5000,79,0,1,Bridget Tetmeyer,12,Twin Cities Academy/Great River,0,1229.599958
+A,F,5000,80,1,1,Regan Feit,11,Luverne,39,1229.70001
+A,F,5000,81,0,1,Brookelyn Kuechle,8,Eden Valley-Watkins/Kimball,0,1230.400022
+A,F,5000,82,0,1,Lizzy Harnell,7,Proctor,0,1231.100035
+A,F,5000,83,1,1,Emma Grace Hendrickson,12,Providence Academy,40,1231.499981
+A,F,5000,84,0,1,Abby Syverson,12,Pelican Rapids,0,1231.900013
+A,F,5000,85,1,1,Katelyn Routhier,10,Howard Lake-Waverly-Winsted,41,1231.999978
+A,F,5000,86,1,1,Elizabeth Wagner,9,Luverne,42,1232.199994
+A,F,5000,87,0,1,Reese Hartl,8,Hinckley-Finlayson,0,1232.499974
+A,F,5000,88,0,1,Aletta Strande,9,Chatfield,0,1232.69999
+A,F,5000,89,1,1,Alison Graff,9,Stewartville,43,1232.800042
+A,F,5000,90,0,1,Kendall Guerrero,10,Glencoe-Silver Lake,0,1233.100022
+A,F,5000,91,0,1,Teagan Nelson,12,West Central,0,1233.499968
+A,F,5000,92,1,1,Brooklynn VerSteeg,10,Luverne,44,1234.199981
+A,F,5000,93,1,1,Brylei Schreier,8,Murray County Central,45,1234.800029
+A,F,5000,94,1,1,Ivy Fasching,9,Howard Lake-Waverly-Winsted,46,1236.199968
+A,F,5000,95,0,1,Ryan Ford,10,International Falls,0,1236.300019
+A,F,5000,96,1,1,Bella Thomas,9,Mesabi East,47,1237.000032
+A,F,5000,97,1,1,Ivy Tickel,8,Hawley,48,1237.300013
+A,F,5000,98,0,1,Cailyn Kuechle,12,Eden Valley-Watkins/Kimball,0,1238.500022
+A,F,5000,99,0,1,Taylor Post,8,SWMCH-EHS,0,1238.599987
+A,F,5000,100,0,1,Chloe Haven,12,Wabasso,0,1239.599981
+A,F,5000,101,1,1,Lauryn Rustad,9,Perham,49,1240.700026
+A,F,5000,102,1,1,Addisyn Cichos,8,Staples-Motley,50,1241.099971
+A,F,5000,103,0,1,Rachel Gowin,10,Breckenridge/Wahpeton,0,1244.999981
+A,F,5000,104,0,1,Jasmine Barnes,12,Redwood Valley,0,1246.800038
+A,F,5000,105,0,1,Madilyn Simon,10,Plainview-Elgin Millville,0,1248.89999
+A,F,5000,106,1,1,Abby Tweeton,12,Perham,51,1249.000042
+A,F,5000,107,1,1,Savanna DeYoung,11,Belle Plaine,52,1249.800019
+A,F,5000,108,1,1,Coral Schwinn,8,Howard Lake-Waverly-Winsted,53,1252.8
+A,F,5000,109,1,1,Addison Lorber,10,Staples-Motley,54,1252.899965
+A,F,5000,110,0,1,Lauren Dimler,10,WEM/JWP,0,1255.400035
+A,F,5000,111,1,1,Olivia Field,10,Stewartville,55,1256.299978
+A,F,5000,112,1,1,Elizabeth Burns,9,Providence Academy,56,1257.799968
+A,F,5000,113,1,1,Phebe Nelson,12,Lake City,57,1259.40001
+A,F,5000,114,0,1,Katie Dahiya,11,Mounds Park Academy,0,1261.800029
+A,F,5000,115,1,1,Gracie Waltman,12,Stewartville,58,1266.799997
+A,F,5000,116,0,1,Lelia Johnson,8,Roseau,0,1268.099971
+A,F,5000,117,0,1,Lexi Bright,10,West Central,0,1274.699981
+A,F,5000,118,1,1,Tabitha Thatcher,11,Fairmont,59,1274.800032
+A,F,5000,119,1,1,Savanna Pelzer,8,Albany,60,1275.89999
+A,F,5000,120,0,1,Meredith Carrington,10,Morris Area/Chokio-Alberta,0,1278.899971
+A,F,5000,121,1,1,Malina Koepp,10,Belle Plaine,61,1279.099987
+A,F,5000,122,1,1,Aly Jeurissen,8,Belle Plaine,62,1279.599984
+A,F,5000,123,1,1,Jazmin Pullins,9,Albany,63,1280.000016
+A,F,5000,124,1,1,Caroline Pollack,9,Blake,64,1280.000016
+A,F,5000,125,1,1,Piper Myran,8,Hawley,65,1280.399962
+A,F,5000,126,1,1,Ella Stapek,0,Murray County Central,66,1282.000003
+A,F,5000,127,1,1,Sydney Weiland,10,Belle Plaine,67,1284.299971
+A,F,5000,128,1,1,Brenna Nelson,12,Lake City,68,1284.700003
+A,F,5000,129,1,1,Jackie Weyerhaeuser,11,Blake,69,1285.299965
+A,F,5000,130,1,1,Natalie Gates,8,Lake City,70,1285.799962
+A,F,5000,131,0,1,Esme Gulbransen,7,Breck School,0,1286.100029
+A,F,5000,132,1,1,Emily Spanier,10,Albany,71,1288.300032
+A,F,5000,133,1,1,Sophia Vezmar,10,Blake,72,1289.199974
+A,F,5000,134,1,1,Kayla Bloemendaal,8,Luverne,73,1290.6
+A,F,5000,135,1,1,Hailey Ronning,10,Mesabi East,74,1298.200003
+A,F,5000,136,1,1,Elisa Flaws,10,Pequot Lakes,75,1299.499978
+A,F,5000,137,1,1,Ellie Ortega,7,Fairmont,76,1300.800038
+A,F,5000,138,1,1,Brigid Burns,12,Providence Academy,77,1302.699974
+A,F,5000,139,0,1,Lilly McCone,10,Springfield/Cedar Mountain,0,1303.100006
+A,F,5000,140,1,1,McKenna Beltz,10,Lake City,78,1304.000035
+A,F,5000,141,1,1,Ryanna Schreier,10,Murray County Central,79,1307.000016
+A,F,5000,142,1,1,Belle Jeurissen,8,Belle Plaine,80,1307.599978
+A,F,5000,143,1,1,Mackenzie Murphy,9,Belle Plaine,81,1308.400042
+A,F,5000,144,1,1,Aly Marshall,9,Providence Academy,82,1309.900032
+A,F,5000,145,1,1,Emma Flaws,8,Pequot Lakes,83,1311.100042
+A,F,5000,146,1,1,Emma Kelly,10,Providence Academy,84,1312.600032
+A,F,5000,147,1,1,Elizabeth Danilyuk,12,Staples-Motley,85,1313.900006
+A,F,5000,148,1,1,Josie Harms,11,Murray County Central,86,1315.899994
+A,F,5000,149,0,1,Anjalie Aho,7,United North Central Warriors,0,1316.10001
+A,F,5000,150,1,1,Grace Ingebretson,9,Luverne,87,1317.199968
+A,F,5000,151,1,1,Kora Forsline,10,Mesabi East,88,1318.500029
+A,F,5000,152,1,1,Becca Richman,9,St. Paul Academy & Summit School,89,1318.599994
+A,F,5000,153,1,1,Naila Mikhaeil,7,Staples-Motley,90,1320.899962
+A,F,5000,154,1,1,Hannah Hannuksela,11,Mesabi East,91,1324.600042
+A,F,5000,155,1,1,Emma Gudahl,10,Fairmont,92,1324.600042
+A,F,5000,156,1,1,Gloria Nelson,12,Stewartville,93,1326.299962
+A,F,5000,157,1,1,Madeleine Johnson,10,Blake,94,1327.999968
+A,F,5000,158,1,1,Violet Benson,8,St. Paul Academy & Summit School,95,1328.699981
+A,F,5000,159,1,1,Danielle Wood,11,Howard Lake-Waverly-Winsted,96,1330.100006
+A,F,5000,160,1,1,Hannah Neusch,11,Fairmont,97,1335.099974
+A,F,5000,161,1,1,Ingrid Johnson,8,St. Paul Academy & Summit School,98,1350.799978
+A,F,5000,162,1,1,Anna Greenlee,12,Mesabi East,99,1353.90001
+A,F,5000,163,1,1,Kira Thompson,10,Hawley,100,1355.600016
+A,F,5000,164,1,1,Carys Gudahl,7,Fairmont,101,1355.899997
+A,F,5000,165,1,1,Lilix Gustafson,8,Pequot Lakes,102,1362.900038
+A,F,5000,166,1,1,Annie Hlavka,8,St. Paul Academy & Summit School,103,1365.499987
+A,F,5000,167,1,1,Mia Tickel,11,Hawley,104,1372.000032
+A,F,5000,168,1,1,Elizabeth Johnson,10,Albany,105,1378.600042
+A,F,5000,169,1,1,Kaylie Doherty,9,Stewartville,106,1395.499968
+A,F,5000,170,1,1,Mia Schubert,11,St. Paul Academy & Summit School,107,1400.800003
+A,F,5000,171,1,1,Cassidy Chaney,12,Pequot Lakes,108,1407.499978
+A,F,5000,172,1,1,Dru Dauner,7,Hawley,109,1409.999962
+A,F,5000,173,1,1,Alexandra Koullick,12,Blake,110,1410.699974
+A,F,5000,174,1,1,Rose Goldenberg,9,Blake,111,1410.800026
+A,F,5000,175,1,1,Sophia Koch,10,Providence Academy,112,1411.699968
+A,F,5000,-1,0,0,Grace Drietz,10,Canby/Minneota,0,-1
+A,M,5000,1,1,1,Geno Uhrbom,11,Greenway/Nashwauk/Keewatin,1,927.5999904
+A,M,5000,2,1,1,Emmet Anderson,11,Staples-Motley,2,942.5999808
+A,M,5000,3,1,1,Jacob Bright,12,West Central,3,943.7999904
+A,M,5000,4,1,1,Jakob McCleary,10,Perham,4,948.6999936
+A,M,5000,5,1,1,Hunter Klimek,12,Staples-Motley,5,949.6999872
+A,M,5000,6,0,1,Cameron Stocke,9,Virginia,0,951.1000128
+A,M,5000,7,1,1,Luke Olson,12,Ely,6,964.4999616
+A,M,5000,8,1,1,Brandon O'Hara,12,Perham,7,966.8999808
+A,M,5000,9,1,1,Jack Vankempen,12,West Central,8,976.1999904
+A,M,5000,10,0,1,Henry Snider,12,Mounds Park Academy,0,979.8000192
+A,M,5000,11,0,1,Luke Swanson,10,Northwest Nighthawks,0,980.0000352
+A,M,5000,12,1,1,Mitchell Johnstone,12,Mankato Loyola/Cleveland,9,980.300016
+A,M,5000,13,0,1,Cooper Lennox,12,Mora,0,985.5
+A,M,5000,14,1,1,Tyson Mahar,11,East Grand Forks,10,985.5
+A,M,5000,15,1,1,Bailey Evenson,12,Perham,11,986.2999776
+A,M,5000,16,1,1,Cole Nowacki,12,East Grand Forks,12,988.7999616
+A,M,5000,17,1,1,Luke O'Hare,11,Lewiston-Altura/Rushford-Peterson,13,989.9000064
+A,M,5000,18,1,1,Seth Pierson,12,St James,14,991.300032
+A,M,5000,19,1,1,Alex Salwasser,10,West Central,15,991.4999616
+A,M,5000,20,0,1,Harris Anderson,12,Math & Science Academy,0,992.6999712
+A,M,5000,21,1,1,Caleb Rivera,11,St James,16,993.8999808
+A,M,5000,22,0,1,Nels Trandahl,12,Rockford,0,996.3999648
+A,M,5000,23,1,1,Travis Miller,12,Heritage Christian,17,996.5999808
+A,M,5000,24,0,1,Austin Antony,12,Tri-City United,0,996.8999616
+A,M,5000,25,0,1,Isaac Swanson,11,North Shore,0,999
+A,M,5000,26,0,1,Brenden Seipke,12,North Shore,0,999.7000128
+A,M,5000,27,1,1,Spencer Engel,12,Greenway/Nashwauk/Keewatin,18,1002.100032
+A,M,5000,28,0,1,Mitchell Buerkle,12,Springfield/Cedar Mountain,0,1002.699994
+A,M,5000,29,0,1,Carter Grove,12,Osakis,0,1003.499971
+A,M,5000,30,1,1,Troy Parulski,12,St James,19,1003.900003
+A,M,5000,31,1,1,Mike Kvaal,12,Lac qui Parle Valley/Dawson-Boyd,20,1003.900003
+A,M,5000,32,0,1,Michael Moran,11,St. Paul Academy & Summit School,0,1003.999968
+A,M,5000,33,1,1,Zeke Sather,11,Lac qui Parle Valley/Dawson-Boyd,21,1004.199984
+A,M,5000,34,0,1,Jeffrey Kayfes,10,Mountain Iron-Buhl,0,1004.899997
+A,M,5000,35,1,1,Griffin Johnson,12,Lac qui Parle Valley/Dawson-Boyd,22,1005.800026
+A,M,5000,36,0,1,Evan Lee,12,Mayer Lutheran/LPWHT,0,1006.000042
+A,M,5000,37,1,1,Jonathan Krueger,10,East Grand Forks,23,1006.399987
+A,M,5000,38,1,1,Carson Hespe,11,Perham,24,1007.399981
+A,M,5000,39,0,1,Jake Lewis,11,Martin County West/Martin Luther,0,1008.59999
+A,M,5000,40,1,1,Jayson Peyerl,11,Redwood Valley,25,1011.200026
+A,M,5000,41,0,1,David Johnston,12,Pelican Rapids,0,1011.400042
+A,M,5000,42,0,1,Alden Keller,9,Breck School,0,1012.799981
+A,M,5000,43,0,1,Jack McNamee,11,Nevis,0,1013.200013
+A,M,5000,44,1,1,Trace Chiodo,12,Minnehaha Academy,26,1013.499994
+A,M,5000,45,1,1,Kade Runge,10,West Central,27,1014.299971
+A,M,5000,46,0,1,Grant Mayers,10,Albany,0,1014.900019
+A,M,5000,47,0,1,Drew Hastings,12,Belle Plaine,0,1015.100035
+A,M,5000,48,1,1,Joe Kozlowski,11,Lake City,28,1016.600026
+A,M,5000,49,1,1,Chase Belka,12,Perham,29,1017.199987
+A,M,5000,50,0,1,Sal Wirth,7,Annandale,0,1020.699965
+A,M,5000,51,0,1,Jake Boudreau,12,La Crescent-Hokah,0,1021.699958
+A,M,5000,52,0,1,Shef West,10,Blake,0,1022.09999
+A,M,5000,53,1,1,Kyle Schill,11,West Central,30,1022.300006
+A,M,5000,54,0,1,Vaughn Wolf,11,St Agnes,0,1022.700038
+A,M,5000,55,1,1,Reese Anderson,10,Lake City,31,1023.200035
+A,M,5000,56,0,1,Grant Strukel,12,Blue Earth Area,0,1023.399965
+A,M,5000,57,0,1,Christopher Borash,12,Royalton,0,1023.799997
+A,M,5000,58,1,1,Owen Werner,12,Perham,32,1027.20001
+A,M,5000,59,0,1,Andrew O'Hara,10,St Charles,0,1027.49999
+A,M,5000,60,0,1,Kevin Turlington,10,Rochester Lourdes,0,1028.299968
+A,M,5000,61,0,1,Emmett Gerres,9,Belle Plaine,0,1028.799965
+A,M,5000,62,1,1,Lukas Ladas,12,Nova Classical Academy,33,1029.999974
+A,M,5000,63,1,1,Dare Akinmusire,12,Nova Classical Academy,34,1030.400006
+A,M,5000,64,0,1,William Saari,11,Fairmont,0,1030.699987
+A,M,5000,65,0,1,Tanner Horton,11,Pine Island,0,1031.199984
+A,M,5000,66,0,1,Jacob Davis,12,Thief River Falls,0,1031.300035
+A,M,5000,67,0,1,Ethan Johnson,11,Pequot Lakes,0,1032.60001
+A,M,5000,68,0,1,Ben Ammermann,12,Litchfield,0,1032.89999
+A,M,5000,69,0,1,Jeremiah Gavin,10,Northwest Nighthawks,0,1033.800019
+A,M,5000,70,1,1,Turner Schad,10,St Cloud Cathedral,35,1034.699962
+A,M,5000,71,1,1,Mitch Miller,12,St Cloud Cathedral,36,1034.800013
+A,M,5000,72,1,1,Finn McCormick,10,Nova Classical Academy,37,1034.899978
+A,M,5000,73,0,1,Brayden Tofteland,12,Luverne,0,1035.30001
+A,M,5000,74,0,1,Isaac Herrmann,11,Annandale,0,1035.59999
+A,M,5000,75,1,1,Theo Andre,11,Nova Classical Academy,38,1035.800006
+A,M,5000,76,1,1,Jerrett Peterson,12,Mankato Loyola/Cleveland,39,1036.099987
+A,M,5000,77,0,1,Tucker Ringhand,12,Crosby-Ironton,0,1037.000016
+A,M,5000,78,1,1,Tyler Erickson,11,Mankato Loyola/Cleveland,40,1038.500006
+A,M,5000,79,0,1,Jeffery Henrikson,12,Maple Lake,0,1039.200019
+A,M,5000,80,0,1,Noah Stewart,12,Morris Area/Chokio-Alberta,0,1039.799981
+A,M,5000,81,0,1,Noah Smith,12,North Shore,0,1040.099962
+A,M,5000,82,1,1,Tesfaye Young,9,Perham,41,1040.200013
+A,M,5000,83,0,1,Ty Bisek,11,New London-Spicer,0,1040.70001
+A,M,5000,84,0,1,Henry Long,11,Eagle Ridge Academy/International School of MN,0,1040.799974
+A,M,5000,85,0,1,Connor Hallaway,10,Glencoe-Silver Lake,0,1041.100042
+A,M,5000,86,1,1,Andrew Muenzhuber,10,Lake City,42,1041.400022
+A,M,5000,87,1,1,Isaac Laddusaw,12,Minnehaha Academy,43,1042.799962
+A,M,5000,88,1,1,Emmett Faltesek,11,Ely,44,1043.40001
+A,M,5000,89,1,1,Mason Clark,11,Redwood Valley,45,1043.600026
+A,M,5000,90,1,1,Jared Nordstrom,12,Heritage Christian,46,1044.400003
+A,M,5000,91,1,1,Peter Shaffer,12,Minnehaha Academy,47,1044.499968
+A,M,5000,92,0,1,Zeke Woods,12,Holdingford,0,1045.800029
+A,M,5000,93,1,1,Charles Olson,11,Minnehaha Academy,48,1046.699971
+A,M,5000,94,0,1,Johnathan Suchy,11,Parkers Prairie,0,1046.800022
+A,M,5000,95,0,1,Eric Wittlief,12,Pine Island,0,1047.800016
+A,M,5000,96,0,1,Hunter Rutt,12,Tri-City United,0,1049.09999
+A,M,5000,97,1,1,Daniel Olson,10,Greenway/Nashwauk/Keewatin,49,1049.500022
+A,M,5000,98,1,1,Jackson Miest,12,St James,50,1049.599987
+A,M,5000,99,1,1,Alex Heen,10,St Cloud Cathedral,51,1050.500016
+A,M,5000,100,1,1,Ben Johnson,12,Lake City,52,1050.899962
+A,M,5000,101,1,1,Jasper Johnston,11,Ely,53,1051.700026
+A,M,5000,102,0,1,Bereket Loer,12,Wadena Deer Creek,0,1052.500003
+A,M,5000,103,1,1,Isaac Christoffersen,12,Staples-Motley,54,1052.500003
+A,M,5000,104,0,1,Lucas Hinojos,12,Wadena Deer Creek,0,1053
+A,M,5000,105,1,1,Mauricio Vite,12,St James,55,1053.499997
+A,M,5000,106,0,1,Hayden Reitmeier,12,Fisher,0,1054.20001
+A,M,5000,107,1,1,Walter Trutna,11,Minnehaha Academy,56,1054.299974
+A,M,5000,108,1,1,Payton Sterud,10,Lac qui Parle Valley/Dawson-Boyd,57,1054.799971
+A,M,5000,109,1,1,Tavin Zeise,12,Nova Classical Academy,58,1054.900022
+A,M,5000,110,1,1,Marco Crispin,10,St James,59,1055.299968
+A,M,5000,111,1,1,Tanner Robben,11,Staples-Motley,60,1055.400019
+A,M,5000,112,1,1,Tyler Rislov,10,Lewiston-Altura/Rushford-Peterson,61,1055.600035
+A,M,5000,113,1,1,Mason Brehmer,10,Lac qui Parle Valley/Dawson-Boyd,62,1055.7
+A,M,5000,114,1,1,Lucas Brownell,9,Staples-Motley,63,1058.4
+A,M,5000,115,0,1,Evan Pohl,9,Nevis,0,1060.500038
+A,M,5000,116,1,1,Colby Deuth,12,Lac qui Parle Valley/Dawson-Boyd,64,1061.300016
+A,M,5000,117,0,1,Noah Foster,9,Cromwell-Wright,0,1062.700042
+A,M,5000,118,0,1,Baylor Hagen,10,Plainview-Elgin Millville,0,1063.399968
+A,M,5000,119,1,1,Issiah Tabatt,8,Staples-Motley,65,1066.799981
+A,M,5000,120,1,1,Evan Jacobson,12,Heritage Christian,66,1067.099962
+A,M,5000,121,1,1,Sam Harris,12,Minnehaha Academy,67,1067.799974
+A,M,5000,122,1,1,Henry Ebel,9,St Cloud Cathedral,68,1068.499987
+A,M,5000,123,0,1,Patrick Green,12,Windom Area,0,1070.199994
+A,M,5000,124,0,1,Nathan Johannsen,10,Frazee,0,1070.69999
+A,M,5000,125,1,1,Henry Karelitz,9,Nova Classical Academy,69,1071.600019
+A,M,5000,126,0,1,Camdan Nolop,12,La Crescent-Hokah,0,1074.500035
+A,M,5000,127,1,1,Gabriel Pointer,10,Ely,70,1074.899981
+A,M,5000,128,0,1,Caden Strasser,9,Pipestone Area,0,1075.099997
+A,M,5000,129,1,1,Kees Van Oosbree,9,Heritage Christian,71,1077.200035
+A,M,5000,130,1,1,Kaiden Allpress,10,Lac qui Parle Valley/Dawson-Boyd,72,1078.200029
+A,M,5000,131,1,1,Reubens Swanson,10,West Central,73,1078.900042
+A,M,5000,132,1,1,Sam Bastien,12,St Cloud Cathedral,74,1078.900042
+A,M,5000,133,1,1,Nash Nelson,12,Lake City,75,1081.600042
+A,M,5000,134,0,1,Blake Stoks,10,Canby/Minneota,0,1082.799965
+A,M,5000,135,1,1,Frankie Tomczik,12,St Cloud Cathedral,76,1083.199997
+A,M,5000,136,1,1,Jack Tyrrell,12,Staples-Motley,77,1085.600016
+A,M,5000,137,1,1,Jack Gifford,7,Minnehaha Academy,78,1087.000042
+A,M,5000,138,1,1,Andrew Hoiness,10,Lewiston-Altura/Rushford-Peterson,79,1088.000035
+A,M,5000,139,1,1,Noah Johnson,12,Nova Classical Academy,80,1088.500032
+A,M,5000,140,1,1,Connor Thoennes,10,Greenway/Nashwauk/Keewatin,81,1091.599978
+A,M,5000,141,1,1,William Medvec,12,St Cloud Cathedral,82,1094.299978
+A,M,5000,142,1,1,Grady Hengel,9,Lewiston-Altura/Rushford-Peterson,83,1096.799962
+A,M,5000,143,1,1,Shad Swanson,10,West Central,84,1098.100022
+A,M,5000,144,1,1,Ricky Buchanan,12,Lewiston-Altura/Rushford-Peterson,85,1098.9
+A,M,5000,145,1,1,Michael Butterfield,11,Greenway/Nashwauk/Keewatin,86,1099.699978
+A,M,5000,146,1,1,Carter Kneeland,12,Heritage Christian,87,1105.200029
+A,M,5000,147,1,1,Dawson McDonald,10,East Grand Forks,88,1112.199984
+A,M,5000,148,1,1,Camden Cilek,9,Redwood Valley,89,1112.999962
+A,M,5000,149,0,1,Samson Hagen,12,Plainview-Elgin Millville,0,1115.800013
+A,M,5000,150,1,1,Gavin Siewert,10,Lake City,90,1117.000022
+A,M,5000,151,1,1,Mitchell Ledebuhr,12,Lewiston-Altura/Rushford-Peterson,91,1117.599984
+A,M,5000,152,1,1,Levi Danielson,8,Greenway/Nashwauk/Keewatin,92,1119.29999
+A,M,5000,153,1,1,Brett Omtvedt,12,Mankato Loyola/Cleveland,93,1119.599971
+A,M,5000,154,1,1,Grant Nelson,9,Heritage Christian,94,1124.499974
+A,M,5000,155,1,1,Johan Zorn,10,Lake City,95,1125.300038
+A,M,5000,156,1,1,Tate Goodthunder,12,Redwood Valley,96,1129.300013
+A,M,5000,157,1,1,Luke Hammerschmidt,12,Redwood Valley,97,1131.799997
+A,M,5000,158,1,1,Dylan Fenske,12,Ely,98,1135.700006
+A,M,5000,159,1,1,Juan Castaneda,11,St James,99,1138.600022
+A,M,5000,160,1,1,Aaron Prinsen,10,Lewiston-Altura/Rushford-Peterson,100,1139.699981
+A,M,5000,161,0,1,Seth Lingen,11,Pipestone Area,0,1142.199965
+A,M,5000,162,1,1,James Younge,9,Mankato Loyola/Cleveland,101,1149.900019
+A,M,5000,163,1,1,Ethan Bremner,12,Ely,102,1152.199987
+A,M,5000,164,0,1,Nathan Neu,11,Ortonville,0,1154.500042
+A,M,5000,165,1,1,Henry Hakanson,11,Heritage Christian,103,1156.399978
+A,M,5000,166,1,1,Leo Steffl,12,Redwood Valley,104,1165.100026
+A,M,5000,167,1,1,Jorden Rossow,8,Mankato Loyola/Cleveland,105,1168.199971
+A,M,5000,168,1,1,Adam Johnson,11,East Grand Forks,106,1177.400016
+A,M,5000,169,1,1,Beau Allen,12,Redwood Valley,107,1187.200022
+A,M,5000,170,1,1,Harry Simons,10,Ely,108,1189.700006
+A,M,5000,171,1,1,Greg Peterson,12,Greenway/Nashwauk/Keewatin,109,1195.300022
+A,M,5000,172,1,1,Nathan Strobel,8,Mankato Loyola/Cleveland,110,1223.399981
+A,M,5000,173,1,1,Hunter Jordheim,8,East Grand Forks,111,1262.500042
+A,M,5000,174,1,1,Jonah Vandervort,8,East Grand Forks,112,1288.100016
+A,M,5000,175,0,1,Bertram Munk,11,Yellow Medicine East,0,1331.899978
