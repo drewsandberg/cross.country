@@ -2,6 +2,8 @@
 Date: November 2, 2019
 St. Olaf College, Northfield, MN
 
+Data scraped from https://mn.milesplit.com/meets/363847/results/680009/raw#.Xb7Vb3dFynQ
+
 MSHSLClass: The team or schools classification within Minnesota State High School League (MSHSL).
 Gender: M for boys/male; F for girls/female
 RaceLengthMeters: Race or course length
