@@ -1,0 +1,42 @@
+---
+title: "2019 Minnesota High School Cross Country State Meet"
+author: "Drew Sandberg"
+date: "November 3, 2019"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+data = read_csv("https://raw.githubusercontent.com/drewsandberg/cross.country/master/2019%20Minnesota%20Cross%20Country%20State%20Meet.csv")
+```
+
+```{r warning=FALSE}
+
+all.races = data %>%
+  mutate(gender = case_when(Gender == "F" ~ "Girls",
+                            Gender == "M" ~ "Boys"),
+         race = paste0(gender, " Class ", MSHSLClass, " ", as.character(RaceLengthMeters), "M"),
+         completion_time = hms::as_hms(RaceCompletionTimeSeconds)) %>%
+  filter(AthletePlace > 0)
+  
+all.races %>%
+  ggplot(aes(as.POSIXct(completion_time), AthletePlace, color = as.factor(race))) +
+       geom_point(size = 2) +
+       geom_jitter(height = .5, width = .05)+
+       scale_color_manual(values = c("darkblue",  "lightblue", "darkgreen", "green")) +
+  scale_y_continuous(trans = "reverse", 
+                     breaks = c(1,25,50,75,100,125,150,175)) +
+  scale_x_time(limits = c(min(all.races$completion_time), 
+                          max(all.races$completion_time))) +
+  theme(panel.background = element_blank(),
+        legend.key = element_blank())  +
+  labs(title = "2019 Minnesota High School Cross Country State Meet\n", 
+       color = "Race",
+       x = "\n5000 Meter Time (minutes)",
+       y = "Place Within Race\n")
+
+```
